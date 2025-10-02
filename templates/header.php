@@ -5,11 +5,11 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Product Catalog v1</title>
+	<title>Product Catalog v2</title>
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 	<div class="center-align"> 
-		<h1>Product Catalog v1</h1>
+		<h1>Product Catalog v2</h1>
 		<br>
 	</div>
